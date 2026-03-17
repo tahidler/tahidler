@@ -2,7 +2,7 @@
 
 **Étudiant en Informatique & Développeur Full-Stack** basé à Toulouse, France.
 
-J'apprends à être autonome en construisant des projets concrets — du web full-stack à l'IA, en passant par la data et la sécurité.
+J'apprends à être autonome en construisant des projets concrets — du web full-stack , en passant par la data et la sécurité.
 
 ## 🛠 Skills & Technologies
 
