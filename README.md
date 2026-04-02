@@ -1,8 +1,8 @@
 <h1 align="center">Hey, I'm Dadlic Assogba <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <p align="center">
-  <strong>Étudiant en Informatique & Développeur Full-Stack</strong> — Toulouse, France<br>
-  Je construis des projets concrets du web full-stack à la data, en passant par l'IA et la sécurité.
+  <strong>Étudiant en Informatique </strong> — Toulouse, France<br>
+  Je construis des projets concrets du web full-stack à la data, de l'automatisation en passant par l'IA et la sécurité.
 </p>
 
 <p align="center">
