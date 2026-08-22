@@ -21,7 +21,7 @@
 | Projet | Ce que c'est | Stack | Liens |
 |---|---|---|---|
 | **FORGE** | E-commerce d'accessoires de force (fitness/powerlifting) — catalogue, tunnel Stripe, comptes clients, back-office marchand | React · Vite · Tailwind v4 · Supabase · Stripe | [🌐 Live](https://forge.boutique) |
-| **BeninVibe** | Plateforme e-commerce dédiée aux produits & services béninois — catalogue, paiement Stripe, comptes clients | Next.js 16 · React 19 · Supabase · Stripe | [Repo](https://github.com/tahidler/BeninVibe) |
+| **BeninVibe** | Plateforme tourisme & loisirs au Bénin — billetterie, réservations et découverte de lieux & activités | Next.js 16 · React 19 · Supabase · Stripe | [🌐 Live](https://beninvibe.com) |
 | **SmartFit-AI** | _[⚠️ complète : ex. coach fitness IA — plan d'entraînement personnalisé]_ | FastAPI · React · OpenAI | [Repo](https://github.com/tahidler/SmartFit-AI) |
 | **_[Ton 4ᵉ projet]_** | _[ex. MusicGraph — exploration de données musicales par graphe]_ | _[stack]_ | [Repo](https://github.com/tahidler) |
 
