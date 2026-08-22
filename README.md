@@ -22,8 +22,8 @@
 |---|---|---|---|
 | **FORGE** | E-commerce d'accessoires de force (fitness/powerlifting) — catalogue, tunnel Stripe, comptes clients, back-office marchand | React · Vite · Tailwind v4 · Supabase · Stripe | [🌐 Live](https://forge.boutique) |
 | **BeninVibe** | Plateforme tourisme & loisirs au Bénin — billetterie, réservations et découverte de lieux & activités | Next.js 16 · React 19 · Supabase · Stripe | [🌐 Live](https://beninvibe.com) |
-| **SmartFit-AI** | _[⚠️ complète : ex. coach fitness IA — plan d'entraînement personnalisé]_ | FastAPI · React · OpenAI | [Repo](https://github.com/tahidler/SmartFit-AI) |
-| **_[Ton 4ᵉ projet]_** | _[ex. MusicGraph — exploration de données musicales par graphe]_ | _[stack]_ | [Repo](https://github.com/tahidler) |
+| **SmartFit-AI** | App fitness cross-platform (web + mobile) avec coach IA — séances générées, suivi nutrition, analyse de forme par caméra | FastAPI · React Native · Supabase · GPT-4o-mini | [Code](https://github.com/tahidler/SmartFit-AI) |
+| **MusicGraph** | Exploration des collaborations musicales via graphe — données MusicBrainz stockées & requêtées dans Neo4j | Node.js · Express · Neo4j · React | [Code](https://github.com/tahidler/musicgraph) |
 
 ---
 
