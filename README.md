@@ -21,7 +21,7 @@
 | Projet | Ce que c'est | Stack | Liens |
 |---|---|---|---|
 | **FORGE** | E-commerce d'accessoires de force (fitness/powerlifting) — catalogue, tunnel Stripe, comptes clients, back-office marchand | React · Vite · Tailwind v4 · Supabase · Stripe | [🌐 Live](https://forge.boutique) |
-| **Fidélis Crédit** | Site courtier en crédit : vitrine + simulateur, espace client (auth), back-office + messagerie temps réel | Next.js 15 · Supabase · Tailwind v4 | [🌐 Live](https://fidelis-credit.vercel.app) |
+| **BeninVibe** | Plateforme e-commerce dédiée aux produits & services béninois — catalogue, paiement Stripe, comptes clients | Next.js 16 · React 19 · Supabase · Stripe | [Repo](https://github.com/tahidler/BeninVibe) |
 | **SmartFit-AI** | _[⚠️ complète : ex. coach fitness IA — plan d'entraînement personnalisé]_ | FastAPI · React · OpenAI | [Repo](https://github.com/tahidler/SmartFit-AI) |
 | **_[Ton 4ᵉ projet]_** | _[ex. MusicGraph — exploration de données musicales par graphe]_ | _[stack]_ | [Repo](https://github.com/tahidler) |
 
