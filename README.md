@@ -72,9 +72,6 @@
   <img height="165" src="https://github-readme-stats-pi-ashy-23.vercel.app/api?username=tahidler&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="stats"/>
   <img height="165" src="https://github-readme-stats-pi-ashy-23.vercel.app/api/top-langs/?username=tahidler&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="top langs"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats-gamma-tawny.vercel.app?user=tahidler&theme=tokyonight&hide_border=true" alt="streak"/>
-</p>
 
 ---
 
